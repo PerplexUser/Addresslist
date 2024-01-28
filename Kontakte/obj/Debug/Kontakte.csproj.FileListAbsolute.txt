@@ -1,0 +1,11 @@
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Debug\KontakteDatabase.mdf
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Debug\KontakteDatabase_log.ldf
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Debug\Kontakte.exe
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Debug\Kontakte.pdb
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Debug\Kontakte.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Debug\Kontakte.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Debug\Kontakte.exe
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Debug\Kontakte.pdb
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Debug\Kontakte.exe.config
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Debug\Kontakte.Adressliste.resources

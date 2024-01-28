@@ -1,0 +1,15 @@
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Release\KontakteDatabase.mdf
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Release\KontakteDatabase_log.ldf
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Release\Kontakte.exe.config
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Release\Kontakte.exe.manifest
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Release\Kontakte.application
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Release\Kontakte.exe
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\bin\Release\Kontakte.pdb
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Release\Kontakte.Adressliste.resources
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Release\Kontakte.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Release\Kontakte.csproj.GenerateResource.Cache
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Release\Kontakte.exe.manifest
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Release\Kontakte.application
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Release\Kontakte.exe
+C:\Dokumente und Einstellungen\Admin\Eigene Dateien\Visual Studio 2008\Projects\Kontakte\Kontakte\obj\Release\Kontakte.pdb
